@@ -1,0 +1,10 @@
+There are 7 days in a Week.
+4 weeks in a month.
+12 months in a year.
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Satursay

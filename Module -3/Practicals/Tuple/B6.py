@@ -1,0 +1,5 @@
+thislist=[1,2,3,4,5,6,7,8,9,0]
+print("This is List : ",thislist)
+print("----- List is Converted Into Tuple -----")
+mytup=tuple(thislist)
+print(mytup)
